@@ -1,0 +1,6 @@
+Tom = "may,5th"
+Jake ="june,9th" 
+Ali = "december,12th"
+Marcus = "september,27th"
+Bunty = "july,30th"
+print(Tom)
