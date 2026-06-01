@@ -1,0 +1,9 @@
+print("my daily routine")
+#step 1 :waking up
+print("i wake up at 7 AM")
+#step two:going to school
+print ("i go to school at 7:35 AM")
+#step three: playing after school
+print("i play with my freinds in the afternoon")
+#step 4: sleeping 
+print("i sleep at 9 or 10 PM")
