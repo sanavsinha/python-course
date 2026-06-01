@@ -1,0 +1,6 @@
+import math
+user_input_text = input("enter a number")
+number_value = float(user_input_text) 
+number = float 
+square_route_result = math.sqrt(number_value)
+print("the square route is:", square_route_result)
